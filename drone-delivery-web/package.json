@@ -1,0 +1,21 @@
+{
+  "name": "drone-delivery-web",
+  "version": "1.0.0",
+  "description": "Simple Drone Delivery System landing page with Node.js + Express backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "drone",
+    "delivery",
+    "express",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
